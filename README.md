@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+--> I am a very passionate Java Spring Boot backend developer who also has relevant knowledge about Microservices, Security, Authentication, Authorization, Cache, Feign Client, Rest Template, API Gateway, Circuit Breaker, Rate Limiter etc.\ 
+--> I have done project on Microservices with Spring boot named E-Commerce-Application-Project in which I have made entire e-commerce app backend and also I have created many others projects on Java Spring Boot which could be seen in my Profile, repositories etc.
