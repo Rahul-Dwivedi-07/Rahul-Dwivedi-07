@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am a very passionate Software developer who also has relevant knowledge about Programming Languages like Java, C++, Python, Javascript, Microservices Architecture,Spring Boot, Node js, Security, Authentication, Authorization, Cache, Feign Client, Rest Template, API Gateway, Circuit Breaker, Rate Limiter etc.
+- I am a very passionate Software developer who has relevant knowledge about Programming Languages like Java, C++, Python, Javascript, Microservices Architecture,Spring Boot, Node js, Security, Authentication, Authorization, Cache, Feign Client, Rest Template, API Gateway, Circuit Breaker, Rate Limiter etc.
 - Also I have a huge interest in Artificial Intelligence and engineering related to it along with model building and I always look foward how could I improve the the application on which I am working by integrating AI to it.
 - I have done project on Microservices with Spring boot named E-Commerce-Application-Project in which I have made an entire e-commerce app backend with Microservices with Java SpringBoot and also I have created many others projects like Login app, Employee Controller app and many other apps on Java Spring Boot which could be seen in my Profile, repositories etc. In Login app I have created it's Frontend as well using Angular making it an entire full stack application.
